@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/contacts/64f530a81c8e748d42060c26
+Content-Type: application/json
+
+{
+    "name": "Luis Almanza Lobo",
+    "number": "400 203 20 44" 
+}
